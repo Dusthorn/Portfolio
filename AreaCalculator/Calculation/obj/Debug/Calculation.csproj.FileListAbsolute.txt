@@ -1,0 +1,6 @@
+C:\Projects\Ruslan\Tests\AreaCalculator\Calculation\bin\Debug\Calculation.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\Calculation\bin\Debug\Calculation.pdb
+C:\Projects\Ruslan\Tests\AreaCalculator\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+C:\Projects\Ruslan\Tests\AreaCalculator\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Projects\Ruslan\Tests\AreaCalculator\Calculation\obj\Debug\Calculation.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\Calculation\obj\Debug\Calculation.pdb

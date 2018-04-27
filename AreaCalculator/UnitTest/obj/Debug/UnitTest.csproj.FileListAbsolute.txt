@@ -1,0 +1,15 @@
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\UnitTest.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\UnitTest.pdb
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\nunit.framework.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\nunit.framework.pdb
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\nunit.framework.xml
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\obj\Debug\UnitTest.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\obj\Debug\UnitTest.pdb
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\Calculation.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\Castle.Core.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\NSubstitute.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\Calculation.pdb
+C:\Projects\Ruslan\Tests\AreaCalculator\UnitTest\bin\Debug\System.Threading.Tasks.Extensions.xml
